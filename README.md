@@ -1,5 +1,5 @@
 # 🚀 FreeRDP Portable (Ubuntu amd64) FreeRDP version 3.17.2-dev0
-
+- Puedes añadorlo a tus binarios para usarlo de manera global.
 ## 🔹 1. Estructura final del paquete
 ```
 freerdp-portable/
